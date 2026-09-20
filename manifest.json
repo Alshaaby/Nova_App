@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "NOVA TECH — نظام قيود المحاسبي المخزني",
+  "short_name": "NOVA قيود",
+  "description": "نظام محاسبي مخزني ونقدي متكامل: قيود مزدوجة، مخزون FIFO/LIFO/AVCO، نقطة بيع، تعدد عملات وفروع، تقارير وطباعة، يعمل دون إنترنت.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#101820",
+  "background_color": "#F1F2EC",
+  "categories": ["business", "finance", "productivity"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
